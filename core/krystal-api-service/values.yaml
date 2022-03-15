@@ -87,11 +87,11 @@ env:
   APP_REWARD_NETWORKS:
     value: "bsc,bsctestnet"
   DEFAULT_DB_HOST:
-    value: "localhost"
+    value: "127.0.0.1"
   DEFAULT_DB_USER:
-    value: "root"
+    value: "kuser"
   DEFAULT_DB_PASSWORD:
-    value: "291997922000"
+    value: "kpassword"
   MAINNET_DEFAULT_DB_DBNAME:
     value: "production_krystal"
   ROPSTEN_DEFAULT_DB_DBNAME:
