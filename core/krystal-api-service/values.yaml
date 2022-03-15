@@ -87,7 +87,7 @@ env:
   APP_REWARD_NETWORKS:
     value: "bsc,bsctestnet"
   DEFAULT_DB_HOST:
-    value: "127.0.0.1"
+    value: "host.docker.internal"
   DEFAULT_DB_USER:
     value: "kuser"
   DEFAULT_DB_PASSWORD:
